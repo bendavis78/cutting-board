@@ -1,0 +1,3 @@
+Static files, such as css, images, and javascript, are placed in this directory.
+To reference them in your template, prefix paths with {{ STATIC_DIR }}. For 
+example, for main.css, use "{{ STATIC_DIR }}css/main.css".
