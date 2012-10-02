@@ -7,8 +7,8 @@ HTML pages while taking advantage of the jinja2 templating language.
 
 Requirements
 ------------
-python >= 2.6
-flask
+* python >= 2.6
+* flask
 
 Basic Usage
 -----------
